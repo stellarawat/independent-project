@@ -12,8 +12,6 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in
 all copies or substantial portions of the Software.
 
-And wait, the most important, you shall star/+1/like the project(s) in project url
-section above first, and then thank the author(s) in Copyright section.
 
 Here are some suggested ways:
 

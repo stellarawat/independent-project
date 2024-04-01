@@ -7,7 +7,7 @@ GET TO KNOW ME
 ## author's name
 Stellarawat Waithira Njuguna 
 ## description of the project 
-
+my project entails 
 <html>
 <body>
   <ol>

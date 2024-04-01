@@ -30,8 +30,8 @@ i will be using vs code
 i will upload them in my github
 
 ## link to a live site on github:chains:
-find the link here : **githublink**
-![github]<git@github.com:stellarawat/independent-project.git>
+find the link here :
+<git@github.com:stellarawat/independent-project.git>
  
 ## copyright and license information 
 [license](https://github.com/stellarawat/independent-project/master/license.md)

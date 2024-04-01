@@ -1,6 +1,6 @@
 Copyright (c) [stellrawat](https://github.com/stellarawat/independent-project) <stellnjuguna66@gmail.com>
 
-Project Url: https://github.com/stellarawat/independent-project.git
+Project Url: https://github.com/stellarawat/independent-project/file1
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

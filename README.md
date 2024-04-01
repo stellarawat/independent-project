@@ -2,10 +2,11 @@
 hello,welcome to my project. 
 
 ## project name
-GET TO KNOW ME
+GET TO KNOW ME.
 
 ## author's name
-Stellarawat Waithira Njuguna 
+Stellarawat Waithira Njuguna.
+
 ## description of the project 
 my project entails 
 <html>
@@ -22,12 +23,12 @@ my project entails
 </html>
 
 ## project setup instruction
-i will be using vs code
-i will upload them in my github
+    1.i will be using vs code.
+    2.i will upload them in my github.
 
 ## link to a live site on github
 find the link here :
 <git@github.com:stellarawat/independent-project.git>
  
 ## copyright and license information 
-[license](https://github.com/stellarawat/independent-project/master/license.md)
+![license](https://github.com/stellarawat/independent-project/file1/master/license.md)

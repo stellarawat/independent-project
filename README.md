@@ -8,11 +8,7 @@ GET TO KNOW ME
 Stellarawat Waithira Njuguna 
 ## description of the project 
 
-<!DOCTYPE html>
 <html>
-<head>
-<title> the project entails </title>
-</head>
 <body>
   <ol>
     <li>my name</li>
@@ -25,11 +21,11 @@ Stellarawat Waithira Njuguna
 </body>
 </html>
 
-## project setup instruction:book:
+## project setup instruction
 i will be using vs code
 i will upload them in my github
 
-## link to a live site on github:chains:
+## link to a live site on github
 find the link here :
 <git@github.com:stellarawat/independent-project.git>
  

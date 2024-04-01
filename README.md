@@ -7,13 +7,22 @@ hii,i'm stella
 ## author's name:smile:
 Stellarawat Waithira Njuguna 
 ## description of the project 
-the project entails:
-  $  -my name
-    -my image
-    -about me
-    -my background(education,work)
-    -why i chose programming as my course
-    -hobbies and skills i have $ 
+<html>
+<head>
+<title>the project entails</title>
+</head>
+<body>
+  <ol>
+    <li>my name</li>
+    <li>my image</li>
+    <li>about me</li>
+    <li>my background(education,work)</li>
+    <li>why i chose programming as my course</li>
+    <li>hobbies and skills i have </li>
+</ol>
+</body>
+</html>
+
 ## project setup instruction:book:
 i will be using vs code
 i will upload them in my github

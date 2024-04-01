@@ -1,15 +1,17 @@
-#[independent-project]
 # 1.INTRODUCTION 
 hello,welcome to my project. 
+
 ## project name
 GET TO KNOW ME
-hii,i'm stella
-## author's name:smile:
+
+## author's name
 Stellarawat Waithira Njuguna 
 ## description of the project 
+
+<!DOCTYPE html>
 <html>
 <head>
-<title>the project entails</title>
+<title> the project entails </title>
 </head>
 <body>
   <ol>
@@ -26,8 +28,10 @@ Stellarawat Waithira Njuguna
 ## project setup instruction:book:
 i will be using vs code
 i will upload them in my github
+
 ## link to a live site on github:chains:
 find the link here : **githublink**
-<git@github.com:stellarawat/independent-project.git>
+![github]<git@github.com:stellarawat/independent-project.git>
  
 ## copyright and license information 
+[license](https://github.com/stellarawat/independent-project/master/license.md)

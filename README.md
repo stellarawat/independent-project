@@ -24,8 +24,9 @@ GET TO KNOW ME.
 
 
 ## project setup instruction
-    1.i will be using vs code.
-    2.i will upload them in my github.
+ i will be using vs code.
+
+i will upload them in my github.
 
 ## link to a live site on github
 [github](https://stellarawat.github.io/independent-project/)

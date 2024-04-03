@@ -1,14 +1,14 @@
 # 1.INTRODUCTION 
 hello,welcome to my project. 
 
-## project name:smile:
+## project name:😂
 GET TO KNOW ME.
 
 ## author's name
 **Stellarawat Waithira Njuguna.**
 ![image](<images/Pink White Black Watercolor Paint Brush Handwriting Feminine  Beauty Youtube Channel Art.png>)
 
-## description of the project 
+## description of the project:📖
 *my project entails:*
  
 -my name.
@@ -28,7 +28,7 @@ GET TO KNOW ME.
 
 i will upload them in my github.
 
-## link to a live site on github
+## link to a live site on github:⛓️
 [github](https://stellarawat.github.io/independent-project/)
  
 ## copyright and license information 

@@ -20,3 +20,4 @@ Here are some suggested ways:
  - Tell friends what a wonderful project this is.
  - And, sure, you can just express thanks in your mind without telling the world.
  - reference i did a research and this is what id said about the license.
+ -          thank you.

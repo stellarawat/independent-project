@@ -3,13 +3,14 @@ h1{
     background-position:center;
     color: teal;
     text-transform: uppercase;
+    font-style: italic;
 }
 h2{
     text-align: left;
     color: crimson;
     text-transform: capitalize;
 }
-div{
+.in{
     border-style:solid;
     border-color:paleturquoise;
     box-sizing: content-box;

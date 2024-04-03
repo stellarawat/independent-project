@@ -9,7 +9,8 @@ Stellarawat Waithira Njuguna.
 
 ## description of the project 
 my project entails: 
- -my name.
+ 
+-my name.
 
  -my image.
 

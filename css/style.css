@@ -4,3 +4,8 @@ h1{
     color: teal;
     text-transform: uppercase;
 }
+h2{
+    text-align: left;
+    color: crimson;
+    text-transform: capitalize;
+}

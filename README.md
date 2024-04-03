@@ -5,10 +5,11 @@ hello,welcome to my project.
 GET TO KNOW ME.
 
 ## author's name
-Stellarawat Waithira Njuguna.
+**Stellarawat Waithira Njuguna.**
+![image](<images/Pink White Black Watercolor Paint Brush Handwriting Feminine  Beauty Youtube Channel Art.png>)
 
 ## description of the project 
-my project entails: 
+*my project entails:*
  
 -my name.
 
@@ -27,8 +28,7 @@ my project entails:
     2.i will upload them in my github.
 
 ## link to a live site on github
-find the link here :
-<git@github.com:stellarawat/independent-project.git>
+[github](https://stellarawat.github.io/independent-project/)
  
 ## copyright and license information 
-![license](https://github.com/stellarawat/independent-project)
+[license](LICENSE.md/license.md)

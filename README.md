@@ -31,4 +31,4 @@ find the link here :
 <git@github.com:stellarawat/independent-project.git>
  
 ## copyright and license information 
-![license](https://github.com/stellarawat/independent-project/file1/master/license.md)
+![license](https://github.com/stellarawat/independent-project)

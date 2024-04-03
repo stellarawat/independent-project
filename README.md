@@ -1,7 +1,7 @@
 # 1.INTRODUCTION 
 hello,welcome to my project. 
 
-## project name
+## project name:smile:
 GET TO KNOW ME.
 
 ## author's name

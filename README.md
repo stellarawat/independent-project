@@ -9,12 +9,16 @@ Stellarawat Waithira Njuguna.
 
 ## description of the project 
 my project entails: 
- my name
- my image
- about me
- my background(education,work)
- why i chose programming as my course
- hobbies and skills i have 
+ -my name.
+
+ -my image.
+
+ -about me.
+
+ -my background(education,work).
+
+ -why i chose programming as my course,
+ hobbies and skills i have. 
 
 
 ## project setup instruction

@@ -9,3 +9,9 @@ h2{
     color: crimson;
     text-transform: capitalize;
 }
+div{
+    border-style:solid;
+    border-color:paleturquoise;
+    box-sizing: content-box;
+    color:rgb(124, 10, 147);
+}

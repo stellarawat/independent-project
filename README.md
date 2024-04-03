@@ -9,18 +9,13 @@ Stellarawat Waithira Njuguna.
 
 ## description of the project 
 my project entails 
-<html>
-<body>
-  <ol>
-    <li>my name</li>
-    <li>my image</li>
-    <li>about me</li>
-    <li>my background(education,work)</li>
-    <li>why i chose programming as my course</li>
-    <li>hobbies and skills i have </li>
-</ol>
-</body>
-</html>
+my name
+my image
+about me
+my background(education,work)
+why i chose programming as my course
+hobbies and skills i have 
+
 
 ## project setup instruction
     1.i will be using vs code.
